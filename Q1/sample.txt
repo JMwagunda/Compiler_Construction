@@ -1,0 +1,1 @@
+abc is a common sequence of letters. Replace abc with ABC, but not abcd or xabcx.
